@@ -50,8 +50,8 @@
 #@@||g.whatsapp.net^$important
 #@@||pps.whatsapp.net^$important
 #@@||mmg.whatsapp.net^$important
-#@@||media-cpt1-1.cdn.whatsapp.net^$important
-#@@||media-jnb1-1.cdn.whatsapp.net^$important
+@@||media-cpt1-1.cdn.whatsapp.net^$important
+@@||media-jnb1-1.cdn.whatsapp.net^$important
 #@@||dit.whatsapp.net^$important
 @@||login.live.com^$important
 @@|alive.github.com
