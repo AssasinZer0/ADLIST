@@ -57,5 +57,5 @@
 @@|alive.github.com
 @@|collector.github.com
 @@||dit.whatsapp.net^
-
+@@||whatsapp.net$document
 
