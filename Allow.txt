@@ -11,7 +11,7 @@
 @@||registry.citrixworkspacesapi.net^$important
 @@||presence.teams.microsoft.com^$important
 @@||eu-teams.events.data.microsoft.com^$important
-@@||web.whatsapp.com^$important
+#@@||web.whatsapp.com^$important
 @@||www.msftconnecttest.com^$important
 @@||ecs.nel.measure.office.net^$important
 @@||time.windows.com^$important
@@ -58,4 +58,4 @@
 @@|collector.github.com
 #@@||dit.whatsapp.net^
 @@||whatsapp.net$document
-
+@@||whatsapp.com$document
