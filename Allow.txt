@@ -54,4 +54,8 @@
 @@||media-jnb1-1.cdn.whatsapp.net^$important
 @@||dit.whatsapp.net^$important
 @@||login.live.com^$important
+@@|alive.github.com
+@@|collector.github.com
+
+
 
